@@ -5,8 +5,8 @@
     "message": "OK"
   },
   "data": {
-    "latest_version": "1.2.0",
-    "min_required_version": "1.0.5",
+    "latest_version": "1.0.0",
+    "min_required_version": "1.0.0",
     "force_update": true,
 
     "title": "업데이트 안내",
