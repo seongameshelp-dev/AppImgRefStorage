@@ -17,7 +17,7 @@
     "store_url_ios": "https://apps.apple.com/app/id6760381413",
 
     "show_popup": true,
-
+    "show_admin_pin_ui": true,
     "feature_flags": {
       "hide_admob": false
     }
